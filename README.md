@@ -12,7 +12,10 @@ pip install pytube yt-dlp ytmusicapi selenium beautifulsoup4 lxml
 ```
 
 ## Command
+
+```
 python music_download.py 'YOUR_PLAYLIST_URL'
+```
 
 ## Output
 
