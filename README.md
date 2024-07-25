@@ -1,6 +1,6 @@
 # youtube_playlist_download
 
-A YouTube web scraping script that allows for the downloading and extraction of metadata (Title, Artist) from a given YouTube music playlist.
+A YouTube web scraping script that allows for the downloading and extraction of metadata (Title, Artist) from a given YouTube Music playlist.
 
 ## Installation
 
