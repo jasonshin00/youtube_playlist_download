@@ -43,7 +43,6 @@ def extract_title_artist(url):
 for video in playlist.videos:
     video_id = video.video_id
     video_info = ytmusic.get_song(video_id)
-    print(video.watch_url)
     try:
         title_artist_info = extract_title_artist(video.watch_url)
         music_name = title_artist_info.get("music_name", "Unknown Title")
